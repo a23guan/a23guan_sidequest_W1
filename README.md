@@ -1,4 +1,4 @@
-## Project Title
+## Side Quest Week 1
 
 Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
 
@@ -6,15 +6,13 @@ Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Sh
 
 ## Group Members
 
-List the full name, WatID, and student number for each group member.
-If the project is individual, include only your own information.
+Amanda Guan a23guan 21037067
 
 ---
 
 ## Description
 
-Briefly describe what your project does.  
-Explain what the user will see, how they can interact, and what inspired the design.
+The background is blue.
 
 Example:
 
